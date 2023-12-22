@@ -1,0 +1,5 @@
+nextcord==2.3.2
+nextcord_ext_activities==2022.3.14
+py_dactyl==2.0.4
+Requests==2.31.0
+python-dotenv
